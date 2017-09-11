@@ -4,7 +4,7 @@ function setup() {
 }
 
 function draw() {
-	stroke('red');
+  stroke('red');
   fill('lightgreen');
   ellipse(400,300,100);
 }
